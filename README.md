@@ -1,1 +1,0 @@
-# my-first-project-FrontEnd-junior--Nehora
